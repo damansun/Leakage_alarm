@@ -1,0 +1,49 @@
+2017-11-06 11:06:06  
+            <xml>
+                <NodeId>C — 3</NodeId>
+                <Status>警报来源处检测到危险，请尽快处理！！！</Status>
+            </xml>
+2017-11-06 11:06:06  
+2017-11-06 11:07:26  
+            <xml>
+                <NodeId>C — 3</NodeId>
+                <Status>警报来源处检测到危险，请尽快处理！！！</Status>
+                <MsgType>zigbee</MsgType>
+            </xml>
+2017-11-06 11:07:26  userid : oc75_wxEuYxWZh0lgYg4PziTWIF8
+2017-11-06 11:07:26  I am here
+2017-11-06 11:07:26  access_token : 
+2017-11-06 11:07:27  errorcode : 0 erromsg : ok msgid : 427451237
+2017-11-06 11:07:27  success
+2017-11-06 11:07:27  
+2017-11-06 11:07:27  <xml><ToUserName><![CDATA[gh_396cd391390c]]></ToUserName>
+<FromUserName><![CDATA[oc75_wxEuYxWZh0lgYg4PziTWIF8]]></FromUserName>
+<CreateTime>1509937642</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>427451237</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+2017-11-06 11:07:27  send msg successfully
+2017-11-06 11:14:57  
+2017-11-06 11:14:57  
+2017-11-06 11:21:41  Start verify ...
+2017-11-06 11:21:41  tmpStr:8fa7ff35d4ac2e4a7ff5d72149cead6b285abfcd
+2017-11-06 11:21:41  signature:8fa7ff35d4ac2e4a7ff5d72149cead6b285abfcd
+2017-11-06 11:21:41  true
+2017-11-06 11:21:41  result : 1
+2017-11-06 22:50:18  <xml><ToUserName><![CDATA[gh_396cd391390c]]></ToUserName>
+<FromUserName><![CDATA[oc75_wwl98BX3Yl3I0se4-mlU4VU]]></FromUserName>
+<CreateTime>1509979791</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-06 22:50:18  <xml>
+            <ToUserName><![CDATA[oc75_wwl98BX3Yl3I0se4-mlU4VU]]></ToUserName>
+            <FromUserName><![CDATA[gh_396cd391390c]]></FromUserName>
+            <CreateTime>1509979818</CreateTime>
+            <MsgType><![CDATA[text]]></MsgType>
+            <Content><![CDATA[广砚科技！]]></Content>
+            <FuncFlag>0</FuncFlag>
+            </xml>
