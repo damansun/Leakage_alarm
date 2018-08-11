@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-__author__ = 'Coulson Sun'
+__author__ = 'Daman Sun'
 import os
 import datetime
 import time
